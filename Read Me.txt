@@ -1,0 +1,12 @@
+Web Scraping National Incubation Center Faisalabad (NICF) Website
+
+This script extracts valuable information from the NICF website, providing details about various startups, including their contact, email, description, founder's name, and cohort information. The data is then stored in a CSV file for further analysis.
+
+## Usage
+
+1. Clone the repository.
+2. Run the R script to scrape NICF website data.
+3. Access the startup information in the generated CSV file.
+
+Feel free to contribute and enhance the functionality of the script!
+
